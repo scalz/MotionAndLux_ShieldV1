@@ -1,0 +1,28 @@
+Parts;Qty;Value;Package;Description
+C3, C8, C18, C19, C20, C21, C24;7;0.1u;0603;Capacitor
+C4, C9, C13;3;0.01u;0603;Capacitor
+C7, C14;2;1u;0603;Capacitor
+C10, C17, C22, C23;4;1000p;0603;Capacitor
+C11;1;100p;0603;Capacitor
+C15;1;22nf;0603;Capacitor
+C16;1;3.3u;0603;Capacitor
+C25;1;4.7u;0603;Capacitor
+C1, C5;2;100u;0805;Capacitor
+C2;1;1u;0805;Capacitor
+C6;1;10u;0805;Capacitor
+C12;1;33u;0805;Capacitor
+D1, D3;2;1N4148;SOD-123;Diode
+R1;1;619k;0603;Resistor
+R2;1;1.3M;0603;Resistor
+R3;1;6.81k;0603;Resistor
+R4, R13;2;1.5M;0603;Resistor
+R5;1;68.1k;0603;Resistor
+R6, R9, R10, R11, R12;5;15M;0603;Resistor
+R7, R8;2;0;0603;Resistor
+R15;1;4.7k;0603;Resistor
+R14;1;4.7k;0805;Resistor
+U1;1;TSU102IST;MINI_SO8;Dual opamp
+U2, U3;2;TLV3691IDCKR;SC70-5;Comparator
+U4;1;OPT3001DNPR;OPT3001DNP;Lux sensor
+PIR;1;LHI968;LHI968;PIR sensor
+JP1;1;1X7;1X7_100MIL Pinheader;Pin header

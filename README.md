@@ -13,6 +13,8 @@ I've not received the pcb yet, but I have already tested it with MyMultisensors 
 ###General specs
 ------
 
+<img src="https://raw.githubusercontent.com/scalz/MotionAndLux_ShieldV1/master/Img/schematic.png" alt=""> 
+
 |Specs|  |
 |---|---|---|
 |Size |23.8*21.6 (mm) |
@@ -29,7 +31,7 @@ Always special thanks to:
 - Mysensors Team for its great work
 - Adafruit, Sparkfun, TI, Atmel etc.. for all educational infos they share
 
-###Links, reference and license** 
+###Links, reference and license 
 ------
 - https://www.openhardware.io
 - http://www2.st.com/content/ccc/resource/technical/document/application_note/b8/84/29/41/21/00/44/41/DM00096551.pdf/files/DM00096551.pdf/jcr:content/translations/en.DM00096551.pdf
